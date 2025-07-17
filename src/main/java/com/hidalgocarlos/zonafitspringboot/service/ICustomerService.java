@@ -1,6 +1,6 @@
-package com.hidalgocarlos.ZonaFitSpringBoot.service;
+package com.hidalgocarlos.zonafitspringboot.service;
 
-import com.hidalgocarlos.ZonaFitSpringBoot.model.Customer;
+import com.hidalgocarlos.zonafitspringboot.model.Customer;
 
 import java.util.List;
 

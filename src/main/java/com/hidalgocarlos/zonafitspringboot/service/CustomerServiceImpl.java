@@ -1,7 +1,7 @@
-package com.hidalgocarlos.ZonaFitSpringBoot.service;
+package com.hidalgocarlos.zonafitspringboot.service;
 
-import com.hidalgocarlos.ZonaFitSpringBoot.model.Customer;
-import com.hidalgocarlos.ZonaFitSpringBoot.repository.ICustomerRepository;
+import com.hidalgocarlos.zonafitspringboot.model.Customer;
+import com.hidalgocarlos.zonafitspringboot.repository.ICustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -51,3 +51,4 @@ public class CustomerServiceImpl implements ICustomerService {
         customerRepository.delete(customer);
     }
 }
+// 198.62

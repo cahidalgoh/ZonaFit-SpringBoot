@@ -1,4 +1,4 @@
-package com.hidalgocarlos.ZonaFitSpringBoot.model;
+package com.hidalgocarlos.zonafitspringboot.model;
 
 import jakarta.persistence.*;
 import lombok.*;
