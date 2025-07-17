@@ -1,4 +1,4 @@
-package com.hidalgocarlos.ZonaFitSpringBoot;
+package com.hidalgocarlos.zonafitspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
