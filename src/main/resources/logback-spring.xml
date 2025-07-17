@@ -3,7 +3,8 @@
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
             <!-- <pattern>[%thread] %-5level: %logger - %msg%n</pattern> -->
-            <pattern>%msg%n</pattern>
+            <!-- <pattern>%msg%n</pattern> Con salto de línea -->
+            <pattern>%msg</pattern><!-- Sin salto de línea -->
         </encoder>
     </appender>
 
